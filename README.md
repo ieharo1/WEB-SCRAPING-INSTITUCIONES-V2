@@ -1,4 +1,4 @@
-# 🕷️ Web Scraping Instituciones v0.0.2 - Scrapy Version
+# 🕷️ Web Scraping Instituciones V0.0.2
 
 Sistema profesional de web scraping utilizando Scrapy framework para extracción de contactos institucionales. Desarrollado por **Isaac Esteban Haro Torres**.
 
