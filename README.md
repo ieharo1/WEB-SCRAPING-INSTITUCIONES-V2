@@ -236,12 +236,6 @@ FEEDS = {
 - Implementa retry middleware
 - Maneja errores apropiadamente
 
----
-
-## 🤝 Contribuciones
-
-¿Creaste nuevos spiders?
-¡Abre un Pull Request!
 
 ---
 
